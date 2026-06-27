@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sharan%20Devadiga&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%7C%20React&descAlignY=58&descSize=20&animation=fadeIn"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=620&lines=Full+Stack+Developer;Backend+Engineer+%7C+Node.js+%26+Express;Frontend+Dev+%7C+React.js;PostgreSQL+%7C+MongoDB+%7C+MySQL;Exploring+AWS+%26+System+Design;Keep+Building.+Keep+Shipping." alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sharan%20Devadiga&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%7C%20React&descAlignY=58&descSize=22&animation=fadeIn"/>
 
 <br/>
 
-<!-- Social Badges -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Developer;Node.js+%7C+Express.js+%7C+REST+APIs;React.js+%7C+Tailwind+CSS;PostgreSQL+%7C+MongoDB+%7C+MySQL;Learning+AWS+%26+System+Design)](https://git.io/typing-svg)
+
+<br/>
+
 <a href="https://www.linkedin.com/in/sharan-devadiga-897549329/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -16,26 +15,28 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=sharan-devadiga&label=Profile+Views&color=7C3AED&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sharan-devadiga&label=Profile+Views&color=A855F7&style=for-the-badge"/>
 
 </div>
+
+<br/>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```javascript
+```js
 const sharan = {
-  location   : "Mangalore, Karnataka, India",
-  role       : "Full Stack Developer",
-  backend    : ["Node.js", "Express.js", "REST APIs"],
-  frontend   : ["React.js", "JavaScript", "Tailwind CSS"],
-  databases  : ["PostgreSQL", "MongoDB", "MySQL"],
-  learning   : ["AWS", "System Design", "Microservices"],
-  contact    : "devadigasharan8@gmail.com",
-  motto      : "Keep Building. Keep Shipping.",
+  location  : "Mangalore, Karnataka, India 📍",
+  role      : "Full Stack Developer 💼",
+  backend   : ["Node.js", "Express.js", "REST APIs"],
+  frontend  : ["React.js", "JavaScript", "Tailwind CSS"],
+  databases : ["PostgreSQL", "MongoDB", "MySQL"],
+  learning  : ["AWS", "System Design", "Microservices"],
+  contact   : "devadigasharan8@gmail.com",
+  motto     : "Keep Building. Keep Shipping. 🚀",
 };
 ```
 
@@ -50,7 +51,8 @@ const sharan = {
 
 <div align="center">
 
-### 🎨 Frontend
+**Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,27 +60,32 @@ const sharan = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗃️ Databases
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💻 Languages
+**Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧰 Tools & Platforms
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### ☁️ Currently Exploring
+**Currently Exploring**
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -90,12 +97,12 @@ const sharan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharan-devadiga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharan-devadiga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&langs_count=8" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sharan-devadiga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharan-devadiga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff&langs_count=8"/>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=sharan-devadiga&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=ffffff" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=sharan-devadiga&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=ffffff"/>
 
 </div>
 
@@ -104,15 +111,7 @@ const sharan = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharan-devadiga&theme=react-dark&hide_border=true&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharan-devadiga&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6&margin-w=10&margin-h=10" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharan-devadiga&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff"/>
 </div>
 
 ---
@@ -120,15 +119,47 @@ const sharan = {
 ## 🐍 Contribution Snake
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/sharan-devadiga/sharan-devadiga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
 
-> ⚠️ Run the GitHub Action below once to generate the snake SVG, then this will display automatically.
+> **Setup:** Create `.github/workflows/snake.yml` and run it manually once — [see instructions below](#snake-setup)
 
-<!-- After setting up the Action, replace the line below with: -->
-<!-- <img src="https://raw.githubusercontent.com/sharan-devadiga/sharan-devadiga/output/github-contribution-grid-snake-dark.svg" /> -->
+---
+
+## 💡 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Awesome Together!
+
+<a href="https://www.linkedin.com/in/sharan-devadiga-897549329/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:devadigasharan8@gmail.com">
+  <img src="https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+⭐ **If you like my work, consider giving my repos a star!** ⭐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
 
-**To enable the snake:** Create `.github/workflows/snake.yml` in your profile repo:
+---
+
+<details>
+<summary id="snake-setup">🐍 Snake Animation Setup</summary>
+
+Create this file in your profile repo: `.github/workflows/snake.yml`
 
 ```yaml
 name: Generate Snake Animation
@@ -154,37 +185,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then go to **Actions → Generate Snake Animation → Run workflow**. After it runs, replace the snake section above with:
-```
-<img src="https://raw.githubusercontent.com/sharan-devadiga/sharan-devadiga/output/github-contribution-grid-snake-dark.svg" />
-```
+Then go to **Actions tab → Generate Snake Animation → Run workflow**
 
----
-
-## 💡 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect & Build Something Awesome Together!
-
-<a href="https://www.linkedin.com/in/sharan-devadiga-897549329/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:devadigasharan8@gmail.com">
-  <img src="https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-⭐ **If you like my work, consider giving my repos a star!** ⭐
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</div>
+</details>
