@@ -122,15 +122,7 @@ const sharan = {
   <img src="https://raw.githubusercontent.com/sharan-devadiga/sharan-devadiga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
----
 
-## 💡 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
----
 
 <div align="center">
 
