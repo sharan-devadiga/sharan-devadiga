@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sharan%20Devadiga&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%7C%20React&descAlignY=58&descSize=20&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=600&lines=🚀+Full+Stack+Developer;⚡+Backend+Engineer+%7C+Node.js+%26+Express;🎨+Frontend+Dev+%7C+React.js;🗃️+PostgreSQL+%7C+MongoDB+%7C+MySQL;☁️+Exploring+AWS+%26+System+Design;🔥+Keep+Building%2C+Keep+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=620&lines=Full+Stack+Developer;Backend+Engineer+%7C+Node.js+%26+Express;Frontend+Dev+%7C+React.js;PostgreSQL+%7C+MongoDB+%7C+MySQL;Exploring+AWS+%26+System+Design;Keep+Building.+Keep+Shipping." alt="Typing SVG" />
 
 <br/>
 
@@ -28,14 +28,14 @@
 
 ```javascript
 const sharan = {
-  📍 location   : "Mangalore, Karnataka, India",
-  💼 role       : "Full Stack Developer",
-  🛠️ backend    : ["Node.js", "Express.js", "REST APIs"],
-  🎨 frontend   : ["React.js", "JavaScript", "Tailwind CSS"],
-  🗃️ databases  : ["PostgreSQL", "MongoDB", "MySQL"],
-  ☁️ learning   : ["AWS", "System Design", "Microservices"],
-  📬 contact    : "devadigasharan8@gmail.com",
-  🚀 motto      : "Keep Building. Keep Shipping.",
+  location   : "Mangalore, Karnataka, India",
+  role       : "Full Stack Developer",
+  backend    : ["Node.js", "Express.js", "REST APIs"],
+  frontend   : ["React.js", "JavaScript", "Tailwind CSS"],
+  databases  : ["PostgreSQL", "MongoDB", "MySQL"],
+  learning   : ["AWS", "System Design", "Microservices"],
+  contact    : "devadigasharan8@gmail.com",
+  motto      : "Keep Building. Keep Shipping.",
 };
 ```
 
@@ -95,7 +95,7 @@ const sharan = {
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharan-devadiga&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=ffffff" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=sharan-devadiga&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=ffffff" />
 
 </div>
 
@@ -112,7 +112,7 @@ const sharan = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharan-devadiga&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sharan-devadiga&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6&margin-w=10&margin-h=10" />
 </div>
 
 ---
@@ -120,8 +120,44 @@ const sharan = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sharan-devadiga/sharan-devadiga/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+> ⚠️ Run the GitHub Action below once to generate the snake SVG, then this will display automatically.
+
+<!-- After setting up the Action, replace the line below with: -->
+<!-- <img src="https://raw.githubusercontent.com/sharan-devadiga/sharan-devadiga/output/github-contribution-grid-snake-dark.svg" /> -->
+
 </div>
+
+**To enable the snake:** Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: sharan-devadiga
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions → Generate Snake Animation → Run workflow**. After it runs, replace the snake section above with:
+```
+<img src="https://raw.githubusercontent.com/sharan-devadiga/sharan-devadiga/output/github-contribution-grid-snake-dark.svg" />
+```
 
 ---
 
