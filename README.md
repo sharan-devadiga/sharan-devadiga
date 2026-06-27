@@ -122,8 +122,6 @@ const sharan = {
   <img src="https://raw.githubusercontent.com/sharan-devadiga/sharan-devadiga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
-> **Setup:** Create `.github/workflows/snake.yml` and run it manually once — [see instructions below](#snake-setup)
-
 ---
 
 ## 💡 Dev Quote
@@ -153,38 +151,3 @@ const sharan = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
-
----
-
-<details>
-<summary id="snake-setup">🐍 Snake Animation Setup</summary>
-
-Create this file in your profile repo: `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sharan-devadiga
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions tab → Generate Snake Animation → Run workflow**
-
-</details>
