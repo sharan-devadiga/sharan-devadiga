@@ -62,12 +62,6 @@ const sharan = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=sharan-devadiga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&count_private=true"/>
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
