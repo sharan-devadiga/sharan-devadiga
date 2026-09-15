@@ -72,22 +72,3 @@ const sharan = {
 
 ---
 
-<div align="center">
-
-### 🤝 Let's Connect & Build Something Awesome Together!
-
-<a href="https://www.linkedin.com/in/sharan-devadiga-897549329/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:devadigasharan8@gmail.com">
-  <img src="https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-⭐ **If you like my work, consider giving my repos a star!** ⭐
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</div>
