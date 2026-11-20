@@ -1,74 +1,197 @@
+# Sharan Devadiga
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sharan%20Devadiga&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%7C%20React&descAlignY=58&descSize=22&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:6D28D9&height=220&section=header&text=Sharan%20Devadiga&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Development&descAlignY=60&descSize=20&animation=fadeIn"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Developer;Node.js+%7C+Express.js+%7C+REST+APIs;React.js+%7C+Tailwind+CSS;PostgreSQL+%7C+MongoDB+%7C+MySQL;Learning+AWS+%26+System+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Real-World+Applications;Node.js+%7C+Express.js+%7C+REST+APIs;React.js+%7C+PostgreSQL;Backend+Development+%7C+Full+Stack)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sharan-devadiga-897549329/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sharan-devadiga-897549329/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:devadigasharan8@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://sharan-devadiga-portfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://sharan-devadiga-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
-<!-- <img src="https://komarev.com/ghpvc/?username=sharan-devadiga&label=Profile+Views&color=A855F7&style=for-the-badge"/> -->
 
 </div>
+
+---
+
+## About Me
+
+Software Engineer focused on building scalable backend systems and full-stack web applications.
+
+- Developing backend applications using Node.js and Express.js.
+- Building frontend applications using React.js.
+- Working with relational and NoSQL databases.
+- Developing REST APIs, integrations, authentication and business workflows.
+- Experience with deployment, production debugging and application maintenance.
+
+---
+
+## Tech Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,php&perline=6"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap&perline=6"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=6"/>
+</p>
+
+### Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,nginx,aws&perline=6"/>
+</p>
+
+---
+
+## Featured Projects
+
+<!-- Replace the repository links with your actual repositories -->
+
+- **Real Estate CRM**  
+  Full-stack CRM platform featuring lead management, booking workflows, billing, role-based access and reporting.
+
+- **Billing & Inventory Management System**  
+  Application for billing, purchase management, inventory operations, credit notes and thermal receipt printing.
+
+- **Smart Logistics Platform**  
+  Logistics platform involving vehicle tracking, vehicle information integrations and business workflows.
+
+- **Web Applications & API Integrations**  
+  Development of REST APIs, database integrations, authentication systems and production application features.
+
+---
+
+## GitHub Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sharan-devadiga/sharan-devadiga/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Keep Building. Keep Shipping.
+
+</div># Sharan Devadiga
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:6D28D9&height=220&section=header&text=Sharan%20Devadiga&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Development&descAlignY=60&descSize=20&animation=fadeIn"/>
 
 <br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Real-World+Applications;Node.js+%7C+Express.js+%7C+REST+APIs;React.js+%7C+PostgreSQL;Backend+Development+%7C+Full+Stack)](https://git.io/typing-svg)
 
-## 🧑‍💻 About Me
+<br/>
 
-```js
-const sharan = {
-  location  : "Mangalore, Karnataka, India 📍",
-  role      : "Full Stack Developer 💼",
-  backend   : ["Node.js", "Express.js", "REST APIs"],
-  frontend  : ["React.js", "JavaScript", "Tailwind CSS"],
-  databases : ["PostgreSQL", "MongoDB", "MySQL"],
-  learning  : ["AWS", "System Design", "Microservices"],
-  contact   : "devadigasharan8@gmail.com",
-  motto     : "Keep Building. Keep Shipping. 🚀",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<a href="https://www.linkedin.com/in/sharan-devadiga-897549329/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:devadigasharan8@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://sharan-devadiga-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
+## About Me
+
+Software Engineer focused on building scalable backend systems and full-stack web applications.
+
+- Developing backend applications using Node.js and Express.js.
+- Building frontend applications using React.js.
+- Working with relational and NoSQL databases.
+- Developing REST APIs, integrations, authentication and business workflows.
+- Experience with deployment, production debugging and application maintenance.
+
 ---
 
-## 🐍 Contribution Snake
+## Tech Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,php&perline=6"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap&perline=6"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=6"/>
+</p>
+
+### Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,nginx,aws&perline=6"/>
+</p>
+
+---
+
+## Featured Projects
+
+<!-- Replace the repository links with your actual repositories -->
+
+- **Real Estate CRM**  
+  Full-stack CRM platform featuring lead management, booking workflows, billing, role-based access and reporting.
+
+- **Billing & Inventory Management System**  
+  Application for billing, purchase management, inventory operations, credit notes and thermal receipt printing.
+
+- **Smart Logistics Platform**  
+  Logistics platform involving vehicle tracking, vehicle information integrations and business workflows.
+
+- **Web Applications & API Integrations**  
+  Development of REST APIs, database integrations, authentication systems and production application features.
+
+---
+
+## GitHub Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sharan-devadiga/sharan-devadiga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+<img src="https://raw.githubusercontent.com/sharan-devadiga/sharan-devadiga/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
 </div>
 
 ---
 
+<div align="center">
+
+### Keep Building. Keep Shipping.
+
+</div>
