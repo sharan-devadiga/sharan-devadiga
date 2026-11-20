@@ -64,24 +64,6 @@ Software Engineer focused on building scalable backend systems and full-stack we
 
 ---
 
-## Featured Projects
-
-<!-- Replace the repository links with your actual repositories -->
-
-- **Real Estate CRM**  
-  Full-stack CRM platform featuring lead management, booking workflows, billing, role-based access and reporting.
-
-- **Billing & Inventory Management System**  
-  Application for billing, purchase management, inventory operations, credit notes and thermal receipt printing.
-
-- **Smart Logistics Platform**  
-  Logistics platform involving vehicle tracking, vehicle information integrations and business workflows.
-
-- **Web Applications & API Integrations**  
-  Development of REST APIs, database integrations, authentication systems and production application features.
-
----
-
 ## GitHub Contributions
 
 <div align="center">
